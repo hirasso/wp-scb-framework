@@ -1,8 +1,8 @@
 {
-	"name"       : "scribu/scb-framework",
+	"name"       : "hirasso/scb-framework",
 	"description": "A set of useful classes for faster plugin development",
 	"keywords"   : ["wordpress"],
-	"homepage"   : "https://github.com/scribu/wp-scb-framework",
+	"homepage"   : "https://github.com/hirasso/wp-scb-framework",
 	"license"    : "GPL-3.0+",
 	"authors"    : [
 		{
