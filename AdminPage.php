@@ -2,6 +2,7 @@
 /**
  * Administration page base class.
  */
+#[AllowDynamicProperties]
 abstract class scbAdminPage {
 	/** Page args
 	 * $page_title string (mandatory)
